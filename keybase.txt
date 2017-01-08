@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/cjbell
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://cjbell.co
+  * I am cjbell (https://keybase.io/cjbell) on keybase.
+  * I have a public key ASByIAdUbSnPWd2v7tOLX7dqM8v6XCcQxGY3Hfb5wTcL7Ao
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120722007546d29cf59ddafeed38b5fb76a33cbfa5c2710c466371df6f9c1370bec0a",
+            "host": "keybase.io",
+            "kid": "0120722007546d29cf59ddafeed38b5fb76a33cbfa5c2710c466371df6f9c1370bec0a",
+            "uid": "5f9801daebc0bdd7a2bf9991b0f1c219",
+            "username": "cjbell"
+        },
+        "service": {
+            "hostname": "cjbell.co",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1483898040,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1483897994,
+        "hash": "9f2e4b7f065b6ecd934e32084d1ceebb6c3f8b103de2e20eaf14abbbff00a04862bc38d28d6fb33bb9c594e269c2331c86a33fa0bade2812312d08b0ed04e046",
+        "seqno": 791124
+    },
+    "prev": "ea2475fe72c0ed13e8ea8b351f8a040fda6e01fade41f1475afbe6e2b75483e4",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgciAHVG0pz1ndr+7Ti1+3ajPL+lwnEMRmNx32+cE3C+wKp3BheWxvYWTFAu97ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNzIyMDA3NTQ2ZDI5Y2Y1OWRkYWZlZWQzOGI1ZmI3NmEzM2NiZmE1YzI3MTBjNDY2MzcxZGY2ZjljMTM3MGJlYzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNzIyMDA3NTQ2ZDI5Y2Y1OWRkYWZlZWQzOGI1ZmI3NmEzM2NiZmE1YzI3MTBjNDY2MzcxZGY2ZjljMTM3MGJlYzBhIiwidWlkIjoiNWY5ODAxZGFlYmMwYmRkN2EyYmY5OTkxYjBmMWMyMTkiLCJ1c2VybmFtZSI6ImNqYmVsbCJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiY2piZWxsLmNvIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xOCJ9LCJjdGltZSI6MTQ4Mzg5ODA0MCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDgzODk3OTk0LCJoYXNoIjoiOWYyZTRiN2YwNjViNmVjZDkzNGUzMjA4NGQxY2VlYmI2YzNmOGIxMDNkZTJlMjBlYWYxNGFiYmJmZjAwYTA0ODYyYmMzOGQyOGQ2ZmIzM2JiOWM1OTRlMjY5YzIzMzFjODZhMzNmYTBiYWRlMjgxMjMxMmQwOGIwZWQwNGUwNDYiLCJzZXFubyI6NzkxMTI0fSwicHJldiI6ImVhMjQ3NWZlNzJjMGVkMTNlOGVhOGIzNTFmOGEwNDBmZGE2ZTAxZmFkZTQxZjE0NzVhZmJlNmUyYjc1NDgzZTQiLCJzZXFubyI6MTAsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA3rqvh7dA04BxOMwNa2v2WJvw654HMoGY1G18pW6kxsetWR1X2O4hMkD1YNL2QwrMhwPUHrhIdT/tSENEZp2TA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJwXNwFKQUYyywk8fikwHNj2P6dAAEkvFfA32wtmqizPo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cjbell
+
+==================================================================
